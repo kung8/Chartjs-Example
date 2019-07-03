@@ -12,7 +12,7 @@ class App extends Component {
   render() {
     return (
       <div style={{margin:'50px auto',display:'flex',flexDirection:'column',alignItems:'center'}}>
-        <h1 style={{fontSize:100}}>Charts</h1>
+        <h1 style={{fontSize:100}}>Charts.js</h1>
         <Doughnut/>
         <Line/>
         <Pie/>
